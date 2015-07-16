@@ -1,2 +1,2 @@
-Мои решения задач с сайта Checkio.org.
-Рассчитаны на Python 3.
+My solutions for tasks from Checkio.org.
+Based on Python 3.
